@@ -50,6 +50,7 @@ namespace Client
             if (!response.IsSuccessStatusCode)
             {
                 Console.WriteLine(response.StatusCode);
+                Console.ReadLine();
             }
             else
             {
