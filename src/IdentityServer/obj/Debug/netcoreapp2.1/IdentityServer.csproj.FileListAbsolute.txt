@@ -3,7 +3,6 @@ C:\Users\geoff\GitHub\quickstartIDServer4\src\IdentityServer\bin\Debug\netcoreap
 C:\Users\geoff\GitHub\quickstartIDServer4\src\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.dev.json
 C:\Users\geoff\GitHub\quickstartIDServer4\src\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.dll
 C:\Users\geoff\GitHub\quickstartIDServer4\src\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.pdb
-C:\Users\geoff\GitHub\quickstartIDServer4\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csprojAssemblyReference.cache
 C:\Users\geoff\GitHub\quickstartIDServer4\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csproj.CoreCompileInputs.cache
 C:\Users\geoff\GitHub\quickstartIDServer4\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cache
 C:\Users\geoff\GitHub\quickstartIDServer4\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cs
