@@ -11,3 +11,4 @@ C:\Users\geoff\GitHub\quickstartIDServer4\src\IdentityServer\obj\Debug\netcoreap
 C:\Users\geoff\GitHub\quickstartIDServer4\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorTargetAssemblyInfo.cache
 C:\Users\geoff\GitHub\quickstartIDServer4\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.dll
 C:\Users\geoff\GitHub\quickstartIDServer4\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.pdb
+C:\Users\geoff\GitHub\quickstartIDServer4\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csprojAssemblyReference.cache

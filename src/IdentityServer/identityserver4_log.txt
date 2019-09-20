@@ -126,4 +126,4 @@
 2019-09-19 19:14:07.833 -07:00 [INF] Token request validation success, {"ClientId":"client","ClientName":null,"GrantType":"client_credentials","Scopes":"api1","AuthorizationCode":null,"RefreshToken":null,"UserName":null,"AuthenticationContextReferenceClasses":null,"Tenant":null,"IdP":null,"Raw":{"scope":"api1","grant_type":"client_credentials","client_id":"client","client_secret":"***REDACTED***"},"$type":"TokenRequestValidationLog"}
 2019-09-19 19:14:07.888 -07:00 [DBG] Getting claims for access token for client: client
 2019-09-19 19:14:07.981 -07:00 [DBG] Token request success.
-***No API available***
+***No API available*** 
